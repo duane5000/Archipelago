@@ -1,0 +1,11 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Haxe",
+		"Package Control",
+		"SublimeLinter",
+		"Theme - Centurion",
+		"Tomorrow Color Schemes"
+	]
+}
